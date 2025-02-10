@@ -183,6 +183,8 @@ Expected response:
 }
 ```
 
+![GraphQL Interface Example](docs/graphql-inteface-pattern.png)
+
 ### 2. Query Pattern by ID
 
 Query:
@@ -334,10 +336,9 @@ Expected response:
 ### Tips for Using GraphiQL
 
 1. GraphiQL provides auto-completion: Press Ctrl+Space to see available fields
-2. You can use the "Docs" button on the right to explore the schema
-3. Multiple queries can be saved in different tabs
-4. Use the "Pretty" button to format your queries
-5. Variables can be defined in the "Query Variables" section at the bottom
+2. You can format your queries using the "Prettify" button
+3. Use the "Docs" explorer on the right side to browse the schema
+4. Variables can be defined in the "Query Variables" panel at the bottom
 
 ## Sample Response
 
@@ -361,4 +362,3 @@ When querying all patterns, you'll get a response like this:
     ]
   }
 }
-```
