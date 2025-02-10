@@ -1,6 +1,6 @@
 # Spring WebFlux GraphQL Pattern Service
 
-This project demonstrates a reactive Spring Boot application using WebFlux and GraphQL to manage design patterns.
+This project demonstrates a reactive Spring Boot application using WebFlux and GraphQL to manage design patterns by HawnSolo.
 
 ## Prerequisites
 
